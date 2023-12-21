@@ -39,16 +39,16 @@ h3{
     text-decoration: underline;
 }
 
-.bottom-cloud {
+/* .bottom-cloud {
     position: absolute;
-    right: 300px;
+    right: 500px;
     top: 50px;
-}
-.top-cloud {
+} */
+/* .top-cloud {
     position: absolute;
     left: 300px;
     bottom: 300px;
-}
+} */
 
 .TopContainer p {
     font-size: 2.5rem;
